@@ -1,0 +1,2 @@
+This is the second line of the fileThis is the third line of the file
+This is the forth line of the file
